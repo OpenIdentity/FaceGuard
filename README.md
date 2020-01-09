@@ -1,2 +1,2 @@
 # FaceGuard
-Robust face-to-ID matching package
+Development in-progess. See [Kanban board](https://github.com/OpenIdentity/FaceGuard/projects/1)
